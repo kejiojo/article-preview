@@ -1,6 +1,6 @@
 
 
-function onClick() {
+const onClick = () => {
     $('.show').fadeToggle();
    var popUp = document.querySelector('#popup');
    popUp.classList.toggle('show');
