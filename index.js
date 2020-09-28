@@ -1,5 +1,3 @@
-
-
 const onClick = () => {
     $('.show').fadeToggle();
    var popUp = document.querySelector('#popup');
